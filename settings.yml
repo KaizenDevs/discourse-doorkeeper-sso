@@ -8,6 +8,6 @@ frame_height: 800
 # enviornment specific settings:
 environments:
   development:
-    endpoint: 0.0.0.0:3000
+    endpoint: http://0.0.0.0:3000
     key: a68d0d7558d5d24418a85eeb5125bc77e288a78cf084ab9aa9c3d8a8e75bd8ce
     secret: f723977830ae30d3ed7cd126ac5ab146fee09c3bf6c7a0ebb744007c3a19b057
